@@ -1,4 +1,4 @@
-#Spring Boot
+# Spring Boot
 
 ## Spring Boot Chapter 01
  * 인텔리제이에서 프로젝트 생성하기
